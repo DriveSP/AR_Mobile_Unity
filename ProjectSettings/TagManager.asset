@@ -8,6 +8,8 @@ TagManager:
   - monocle
   - stars
   - modelObject
+  - Ignite
+  - ARPlaneManager
   layers:
   - Default
   - TransparentFX
