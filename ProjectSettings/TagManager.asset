@@ -3,13 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - mask
-  - monocle
-  - stars
-  - modelObject
-  - Ignite
-  - ARPlaneManager
+  tags: []
   layers:
   - Default
   - TransparentFX
